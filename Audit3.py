@@ -37,7 +37,7 @@ SUNSET = '5'
 EXPT_START = '2015_06_19'
 EXPT_END = '2015_06_20'
 
-Main_folder = 'Z:/a_data/TimeStreams/Borevitz/' + EXPT_ID + '/originals/'
+Main_folder = '/network/phenocam-largedatasets/a_data/TimeStreams/Borevitz/' + EXPT_ID + '/originals/'
 Folder_rest = EXPT_ID + '-' + LOCATION + '-C01~fullres-orig'
 
 start_date = datetime.datetime.strptime(EXPT_START,'%Y_%m_%d')
