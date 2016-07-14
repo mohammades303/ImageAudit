@@ -17,7 +17,7 @@ from PIL import Image
 
 
 
-Color_Th = 120 # a value between 0 and 255
+Color_Th = 120 # a value between 0 and 255!
 template = cv2.imread('card4.jpg',0)
 '''
 EXPT_ID = 'BVZ0068'
