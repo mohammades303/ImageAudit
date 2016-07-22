@@ -1,0 +1,8 @@
+USE,EXPT,LOCATION,CAM_NUM,SOURCE,EXPT_START,EXPT_END,INTERVAL,SUNRISE,SUNSET,DESTINATION,COLORCARD_TEMPLATE,COLORCARD_DETECTION_MODE,REPORT_RGB,REPORT_ORIENTATION,REPORT_COLORCARD,REPORT_COLORCARD_DETECTION_ACCURACY,REPORT_COLOR_CORRECTION_ERROR,REPORT_ALL_CORRECTION_ERRORS,REPORT_NUM_QR_CODES,WRITE_COLORCARDS,WRITE_CORRECTED_COLORCARDS
+0,BVZ0036,GC02R,1,/network/phenocam-largedatasets/a_data/TimeStreams/Borevitz,2014_06_29,2014_07_06,30,800,1700,./test_output/,card.jpg,first,t,t,,t,t,,,t,t
+1,BVZ0039,GC05R,1,/network/phenocam-largedatasets/a_data/TimeStreams/Borevitz,2015_03_20,2015_04_15,30,600,1800,./test_output/,card.jpg,first,TRUE,t,t,t,TRUE,f,f,FALSE,TRUE
+0,BVZ0043,GC04L,1,/network/phenocam-largedatasets/a_data/TimeStreams/Borevitz,2015_04_26,2015_05_03,60,400,2000,./test_output/,card.jpg,first,t,t,t,t,t,t,t,,t
+0,BVZ0055,GC03R,1,/network/phenocam-largedatasets/a_data/TimeStreams/Borevitz,2015_11_28,2015_12_03,60,400,2100,./test_output/,card.jpg,first,t,t,t,t,t,,,t,t
+0,BVZ0051,GC035L,1,/network/phenocam-largedatasets/a_data/TimeStreams/Borevitz,2015_06_07,2015_06_24,60,200,1200,./test_output/,card.jpg,first,t,t,t,t,t,,,,t
+0,BVZ0069,GC37L,1,/network/phenocam-largedatasets/a_data/TimeStreams/Borevitz,2016_05_28,2016_06_16,20,600,1800,./test_output/,card.jpg,first,t,t,t,t,t,,,,t
+0,BVZ0068,GC37R,1,/network/phenocam-largedatasets/a_data/TimeStreams/Borevitz,2016_04_05,2016_04_15,30,600,1800,./test_output/,card.jpg,first,t,t,t,t,t,,,,t
